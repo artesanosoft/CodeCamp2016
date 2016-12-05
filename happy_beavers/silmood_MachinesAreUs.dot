@@ -1,0 +1,79 @@
+graph G {
+  Ivanhoe
+  rugi
+  pedrogk
+  domix
+  neodevelop
+  ecamacho
+  grafofilia
+  hiphoox
+  RevistaSG
+  S4ndee
+  chochosmx
+  metallikito
+  IsabelPalomar
+  d5lment
+  gothwski
+  tuitabeaver
+  hip_beaver
+  Ivanhoe -- rugi
+  Ivanhoe -- pedrogk
+  Ivanhoe -- domix
+  Ivanhoe -- ecamacho
+  Ivanhoe -- grafofilia
+  Ivanhoe -- hiphoox
+  Ivanhoe -- S4ndee
+  Ivanhoe -- chochosmx
+  rugi -- pedrogk
+  rugi -- domix
+  rugi -- neodevelop
+  rugi -- ecamacho
+  rugi -- RevistaSG
+  rugi -- S4ndee
+  rugi -- chochosmx
+  rugi -- d5lment
+  rugi -- hip_beaver
+  pedrogk -- domix
+  pedrogk -- neodevelop
+  pedrogk -- ecamacho
+  pedrogk -- grafofilia
+  pedrogk -- RevistaSG
+  pedrogk -- chochosmx
+  pedrogk -- IsabelPalomar
+  pedrogk -- d5lment
+  domix -- neodevelop
+  domix -- ecamacho
+  domix -- hiphoox
+  domix -- RevistaSG
+  domix -- S4ndee
+  domix -- chochosmx
+  domix -- d5lment
+  neodevelop -- ecamacho
+  neodevelop -- hiphoox
+  neodevelop -- S4ndee
+  neodevelop -- chochosmx
+  neodevelop -- d5lment
+  neodevelop -- gothwski
+  ecamacho -- grafofilia
+  ecamacho -- hiphoox
+  ecamacho -- RevistaSG
+  ecamacho -- S4ndee
+  ecamacho -- chochosmx
+  ecamacho -- IsabelPalomar
+  ecamacho -- d5lment
+  ecamacho -- gothwski
+  grafofilia -- gothwski
+  hiphoox -- S4ndee
+  hiphoox -- chochosmx
+  hiphoox -- d5lment
+  hiphoox -- gothwski
+  RevistaSG -- chochosmx
+  RevistaSG -- metallikito
+  S4ndee -- IsabelPalomar
+  S4ndee -- d5lment
+  S4ndee -- gothwski
+  chochosmx -- d5lment
+  metallikito -- tuitabeaver
+  metallikito -- hip_beaver
+  d5lment -- gothwski
+}
