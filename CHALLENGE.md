@@ -1,8 +1,8 @@
 
 # Reto Code Camp 2016
 
-El reto consisitrá en obtener, procesar y exponer información de Twitter.
-Se compondrá de 3 etapas sucesivas.
+El reto consisitrá en obtener, procesar y presentar información de Twitter.
+Se compondrá de 5 etapas sucesivas.
 
 ## Etapa 1
 
