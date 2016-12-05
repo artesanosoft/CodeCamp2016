@@ -1,0 +1,2 @@
+defmodule HappyBeavers do
+end

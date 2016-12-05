@@ -1,0 +1,8 @@
+graph G {
+  MachinesAreUs
+  metallikito
+  silmood
+  MachinesAreUs -- metallikito
+  MachinesAreUs -- silmood
+  metallikito -- silmood
+}

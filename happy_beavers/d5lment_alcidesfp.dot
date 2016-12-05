@@ -1,0 +1,132 @@
+graph G {
+  rugi
+  thegeekinside
+  MachinesAreUs
+  domix
+  neodevelop
+  tgrip
+  ecamacho
+  gzfrancisco
+  verolopg
+  condesa_sama
+  tsunllly
+  chochosmx
+  sergiodnila
+  rodrigo_salado
+  itzareyesMX
+  clojure_hispano
+  PunksOnCode
+  Lambda_Mx
+  jvm_mx
+  rugi -- thegeekinside
+  rugi -- MachinesAreUs
+  rugi -- domix
+  rugi -- neodevelop
+  rugi -- tgrip
+  rugi -- ecamacho
+  rugi -- gzfrancisco
+  rugi -- verolopg
+  rugi -- condesa_sama
+  rugi -- chochosmx
+  rugi -- rodrigo_salado
+  rugi -- itzareyesMX
+  rugi -- clojure_hispano
+  rugi -- PunksOnCode
+  rugi -- jvm_mx
+  thegeekinside -- MachinesAreUs
+  thegeekinside -- domix
+  thegeekinside -- neodevelop
+  thegeekinside -- tgrip
+  thegeekinside -- ecamacho
+  thegeekinside -- gzfrancisco
+  thegeekinside -- tsunllly
+  thegeekinside -- chochosmx
+  thegeekinside -- sergiodnila
+  thegeekinside -- rodrigo_salado
+  thegeekinside -- clojure_hispano
+  thegeekinside -- PunksOnCode
+  thegeekinside -- Lambda_Mx
+  MachinesAreUs -- domix
+  MachinesAreUs -- neodevelop
+  MachinesAreUs -- tgrip
+  MachinesAreUs -- ecamacho
+  MachinesAreUs -- gzfrancisco
+  MachinesAreUs -- verolopg
+  MachinesAreUs -- tsunllly
+  MachinesAreUs -- chochosmx
+  MachinesAreUs -- sergiodnila
+  MachinesAreUs -- rodrigo_salado
+  MachinesAreUs -- PunksOnCode
+  MachinesAreUs -- Lambda_Mx
+  domix -- neodevelop
+  domix -- tgrip
+  domix -- ecamacho
+  domix -- gzfrancisco
+  domix -- verolopg
+  domix -- tsunllly
+  domix -- chochosmx
+  domix -- sergiodnila
+  domix -- rodrigo_salado
+  domix -- clojure_hispano
+  domix -- PunksOnCode
+  domix -- jvm_mx
+  neodevelop -- tgrip
+  neodevelop -- ecamacho
+  neodevelop -- gzfrancisco
+  neodevelop -- condesa_sama
+  neodevelop -- tsunllly
+  neodevelop -- chochosmx
+  neodevelop -- sergiodnila
+  neodevelop -- rodrigo_salado
+  neodevelop -- clojure_hispano
+  neodevelop -- PunksOnCode
+  neodevelop -- Lambda_Mx
+  neodevelop -- jvm_mx
+  tgrip -- ecamacho
+  tgrip -- verolopg
+  tgrip -- condesa_sama
+  tgrip -- tsunllly
+  tgrip -- rodrigo_salado
+  tgrip -- clojure_hispano
+  ecamacho -- gzfrancisco
+  ecamacho -- verolopg
+  ecamacho -- condesa_sama
+  ecamacho -- chochosmx
+  ecamacho -- sergiodnila
+  ecamacho -- rodrigo_salado
+  ecamacho -- clojure_hispano
+  ecamacho -- PunksOnCode
+  ecamacho -- Lambda_Mx
+  ecamacho -- jvm_mx
+  gzfrancisco -- condesa_sama
+  gzfrancisco -- chochosmx
+  gzfrancisco -- sergiodnila
+  gzfrancisco -- rodrigo_salado
+  gzfrancisco -- PunksOnCode
+  verolopg -- tsunllly
+  verolopg -- chochosmx
+  verolopg -- sergiodnila
+  verolopg -- rodrigo_salado
+  verolopg -- clojure_hispano
+  verolopg -- PunksOnCode
+  condesa_sama -- rodrigo_salado
+  tsunllly -- chochosmx
+  tsunllly -- sergiodnila
+  tsunllly -- rodrigo_salado
+  tsunllly -- clojure_hispano
+  tsunllly -- PunksOnCode
+  tsunllly -- jvm_mx
+  chochosmx -- rodrigo_salado
+  chochosmx -- PunksOnCode
+  chochosmx -- Lambda_Mx
+  chochosmx -- jvm_mx
+  sergiodnila -- rodrigo_salado
+  sergiodnila -- clojure_hispano
+  sergiodnila -- PunksOnCode
+  sergiodnila -- Lambda_Mx
+  sergiodnila -- jvm_mx
+  rodrigo_salado -- PunksOnCode
+  rodrigo_salado -- Lambda_Mx
+  rodrigo_salado -- jvm_mx
+  clojure_hispano -- Lambda_Mx
+}
