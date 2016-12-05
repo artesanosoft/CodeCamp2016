@@ -1,24 +1,40 @@
-# HappyBeavers
+# HappyBeavers Team!
 
-**TODO: Add description**
+## Is it working?
 
-## Installation
+Let's see
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+``` 
+$ mix deps.get
+...
+$ mix test
+```
 
-  1. Add `happy_beavers` to your list of dependencies in `mix.exs`:
+If the tests run successfully, then yep, it's working.
 
-    ```elixir
-    def deps do
-      [{:happy_beavers, "~> 0.1.0"}]
-    end
-    ```
+## How to use it
 
-  2. Ensure `happy_beavers` is started before your application:
+```
+$ iex -S mix
+...
+> TwitStat.common_friends_graph("user1", "user2")
 
-    ```elixir
-    def application do
-      [applications: [:happy_beavers]]
-    end
-    ```
+```
 
+A file named "#{user1}_#{user2}.dot" should be generated, then from your shell
+
+```
+$ dot -Tpng dot_file.dot -o out_file.png
+```
+
+and you'll have a nice pic of the social network shared by `user1` and `user2`.
+
+## Examples
+
+1. `d5lment` and `alcidesfp`
+
+![d5lment and alcidesfp](https://github.com/artesanosoft/CodeCamp2016/blob/master/examples/d5lment_alcidesfp.png "d5lment and alcidesfp")
+
+1. `hiphoox` and `chochosmx`
+
+![hiphoox and chochosmx](https://github.com/artesanosoft/CodeCamp2016/blob/master/examples/hiphoox_chochosmx.png "hiphoox and chochosmx")
